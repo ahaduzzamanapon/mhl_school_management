@@ -1,0 +1,9 @@
+ No.            Date/Time Location ID ID Number VerifyCode CardNo
+
+   2  8/7/2024 9:34:51 AM           1                   FP       
+   2  8/7/2024 6:45:38 PM           1                   FP       
+   2  8/7/2024 6:45:41 PM           1                   FP       
+   2  8/8/2024 9:31:50 AM           1                   FP       
+   2  8/8/2024 9:31:55 AM           1                   FP       
+   3  8/7/2024 9:44:00 AM           1                   FP       
+   3  8/7/2024 7:07:22 PM           1                   FP       

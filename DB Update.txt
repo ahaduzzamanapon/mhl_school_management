@@ -1,0 +1,2 @@
+ALTER TABLE `class_students`  ADD `status` ENUM('Enable','Disable') NOT NULL  AFTER `optional_sub`;
+ALTER TABLE `teachers_info`  ADD `teacher_machine_id` INT NULL DEFAULT NULL  AFTER `index_no`;
